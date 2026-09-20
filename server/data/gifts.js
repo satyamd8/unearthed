@@ -14,7 +14,7 @@ const giftData = [
       name: 'Cozy Throw Blanket',
       pricePoint: '$',
       audience: 'Homebodies',
-      image: 'https://images.unsplash.com/photo-1580301762395-21ce6c5c3d3e',
+      image: 'https://images.thdstatic.com/productImages/d81fbb494ab34f1eb27e3aab51266ffc/svn/tie-dyed-brown-50x60-ghouse-throw-blankets-gbty5060-64_600.jpg',
       description: 'A soft and comfortable throw blanket that makes relaxing on the couch even better.',
       submittedBy: 'Jordan',
       submittedOn: '2026-09-02'
